@@ -2,7 +2,7 @@
 
 **Senior Fullstack Engineer | Tech Lead**
 
-Building end-to-end web applications with React, Next.js, Node.js, and TypeScript.  
+Building end-to-end web applications with React, Next.js, Node.js, and TypeScript.
 Currently exploring AI integration: LangChain, LangGraph, RAG, Vercel AI SDK, AG-UI.
 
 📍 Haute-Savoie, France (Geneva area)
@@ -11,10 +11,10 @@ Currently exploring AI integration: LangChain, LangGraph, RAG, Vercel AI SDK, AG
 
 ### 🛠 Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind, Svelte  
-**Backend:** Node.js, Express, REST APIs, GraphQL  
-**Mobile:** React Native, Flutter, Expo  
-**Databases:** PostgreSQL, MongoDB  
+**Frontend:** React, Next.js, TypeScript, Tailwind, Svelte
+**Backend:** Node.js, Express, REST APIs, GraphQL
+**Mobile:** React Native, Flutter, Expo
+**Databases:** PostgreSQL, MongoDB
 **AI/ML:** LangChain, LangGraph, RAG, Vercel AI SDK, AG-UI, PyTorch
 
 ---
@@ -27,12 +27,20 @@ Currently exploring AI integration: LangChain, LangGraph, RAG, Vercel AI SDK, AG
 
 ---
 
+### 🌟 Open Source Contributions
+
+- [TanStack/ai](https://github.com/TanStack/ai/pull/156) — Added Claude Agent SDK adapter
+- [steveyegge/gastown](https://github.com/steveyegge/gastown) — Multiple fixes for multi-agent workspace manager
+- [Battle-Road-Labs/3D-Tiles-For-Godot](https://github.com/Battle-Road-Labs/3D-Tiles-For-Godot/pull/122) — Added macOS ARM64 platform support
+
+---
+
 ### 💼 Experience
 
-**Tech Lead @ GreenWeb** (2023 - Present)  
+**Tech Lead @ GreenWeb** (2023 - Present)
 Architecture and delivery of complex web applications. Managing offshore teams (5-10 developers).
 
-**Freelance Mobile Developer** (2017 - 2022)  
+**Freelance Mobile Developer** (2017 - 2022)
 Native Android development (Java/Kotlin), React Native, Flutter.
 
 ---
