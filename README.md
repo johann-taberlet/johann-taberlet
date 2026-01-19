@@ -36,12 +36,17 @@ Currently exploring AI integration: LangChain, LangGraph, RAG, Vercel AI SDK, AG
 ---
 
 ### 💼 Experience
-
 **Tech Lead @ GreenWeb** (2023 - Present)
 Architecture and delivery of complex web applications. Managing offshore teams (5-10 developers).
 
 **Freelance Mobile Developer** (2017 - 2022)
 Native Android development (Java/Kotlin), React Native, Flutter.
+
+**Kitesurf Instructor (Freelance)** (2010 - 2017)
+Teaching and coaching international clients. Developed strong communication, pedagogy and safety management skills.
+
+**Web Developer @ BeMore Suisse SA, Geneva** (2007 - 2010)
+Web portals for international ski resorts (e-Liberty – PHP / C# / JavaScript). Passenger information systems for public transport.
 
 ---
 
